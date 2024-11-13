@@ -3,5 +3,5 @@ Welcome to my new Flutter project, this mobile app was created to give curious p
 
 ## Overview
 
-This project was part of a competetion where we pitched the idea.
+This project was part of a competition where we pitched the idea.
 MedicareAI was created using Flutter and Firebase and for the chatbot we used Gemini API.
